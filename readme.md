@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.**
+> The code is provided for historical reference and may contain unpatched
+> or unknown vulnerabilities. It should not be used in production systems.
+
+---
+
 Copyright 2024, Battelle Energy Alliance, LLC All Rights Reserved
 
 NVD2STIX generates a STIX bundle of vulnerabilities given a CPE string, a list of CPE strings within a text file, or a custom search query.
